@@ -1,0 +1,35 @@
+body {
+  background: linear-gradient(90deg, #758ECD 0%, #A0DDFF 0%, #758ECD 100%);
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 70px;
+  margin-top: 100px;
+  color: #14342B;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#clock {
+  margin-top: 15vh;
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  color: #14342B;
+  border: 2px solid #14342B;
+  border-radius: 10px;
+}
+
+#numbers {
+  margin-left: 28px;
+  width: 440px;
+}/*# sourceMappingURL=style.css.map */
